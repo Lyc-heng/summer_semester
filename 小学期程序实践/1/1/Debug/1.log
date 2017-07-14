@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ui.c
+c:\users\hp\documents\visual studio 2017\projects\1\1\ui.c(102): warning C4101: “rectNew”: 未引用的局部变量
+c:\users\hp\documents\visual studio 2017\projects\1\1\ui.c(213): warning C4133: “=”: 从“HPEN”到“HFONT”的类型不兼容
+c:\users\hp\documents\visual studio 2017\projects\1\1\ui.c(214): warning C4133: “=”: 从“HPEN”到“HFONT”的类型不兼容
+  1.vcxproj -> C:\Users\HP\Documents\Visual Studio 2017\Projects\1\Debug\中国象棋.exe
+  1.vcxproj -> C:\Users\HP\Documents\Visual Studio 2017\Projects\1\Debug\中国象棋.pdb (Partial PDB)
